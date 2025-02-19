@@ -1,5 +1,5 @@
 # Laporan Proyek Machine Learning - Rijal Muhammad Farizky
-![bbca](\img\bbca.png)
+![bbca](./img/bbca.png)
 ## Domain Proyek
 Domain yang dipilih untuk proyek machine learning ini adalah **Keuangan**, dengan judul **Predictive Analytics: BBCA Stock Price Forecasting**
 

@@ -2,3 +2,9 @@ torch
 torchvision
 transformers
 nltk
+pandas
+numpy
+matplotlib
+datetime
+scikit-learn
+tensorflow
